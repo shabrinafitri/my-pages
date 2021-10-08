@@ -1,0 +1,65 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+p {
+  color: #718096;
+}
+
+h1 {
+  color: #2D3748;
+}
+
+h2 {
+  color: #2D3748;
+}
+
+h3 {
+  color: #2D3748;
+}
+
+h4 {
+  color: #2D3748;
+}
+
+h5 {
+  color: #2D3748;
+}
+
+h6 {
+  color: #2D3748;
+}
+
+a {
+  text-decoration: none;
+  color: #2D3748;
+}
+
+
+.head-section {
+  min-height: 400px;
+  height: auto;
+  background-color: #FBFBFB;
+}
+
+.article-section {
+  max-height: 400px;
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+}
+
+.bg-latest {
+  background-color: #F7FAFC;
+}
+
+.btn-more {
+  background-color: #6B46C1;
+  color: white;
+}
+
+.btn-more:hover {
+  background-color: #230A5F;
+  color: white;
+}
+/*# sourceMappingURL=main.css.map */
